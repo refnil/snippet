@@ -1,0 +1,3 @@
+Cool recusive function
+
+loeb :: Function f => f (f w -> w) -> f w
