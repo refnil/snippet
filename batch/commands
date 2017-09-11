@@ -1,0 +1,1 @@
+pscp nixos:remote-path local-path
